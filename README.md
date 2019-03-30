@@ -1,6 +1,6 @@
 This is a front end application built using react and redux.
 
-The application can be viewed here.
+The application can be viewed at https://robofriends-love.herokuapp.com/
 
 •	Implemented lifecycle hooks, fetch method and binding in react.
 •	Implemented redux actions, reducers, stores and providers.
